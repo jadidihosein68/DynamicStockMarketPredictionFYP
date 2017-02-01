@@ -6,7 +6,11 @@ My finall year project in 2015 written using C# windows form application
 
 Application features : 
 <ul>
-<li>use Twitter API to get sa person tweets (download up to 3200 tweets via multiple requests).</li>
+<li>use Twitter API to get sa person tweets (download up to 3200 tweets via multiple requests).
+<img src="https://s30.postimg.org/tp0s3nkox/Tweets.png" class="img-rounded" alt="Cinque Terre" >
+</li>
+
+
 <li>Download all the historical data of a stock index using yahoo finance API. </li>
 <li>Download all the data of a particulair stock index in each 15 mins.</li>
 <li>Calculate MACD,RSI, Stochastic Osccilator and Guppy timeseries diagram in a customized interval.</li>
