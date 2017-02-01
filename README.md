@@ -14,3 +14,7 @@ Application features :
 <li>Use internal algorithm on weka string to binary output files and count the number of repeated world per days and sort them from max to min.</li>
 </ul>
 <img src="https://s27.postimg.org/nwbealmur/salemandar_CSH.jpg" class="img-rounded" alt="Cinque Terre" >
+<img src="https://s27.postimg.org/isb9fx4sj/All.png" class="img-rounded" alt="Cinque Terre" >
+
+
+
