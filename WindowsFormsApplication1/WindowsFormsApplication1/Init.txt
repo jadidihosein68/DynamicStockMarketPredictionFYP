@@ -1,0 +1,1 @@
+Data Source=HOSEIN-PC;Initial Catalog=FYP1;Integrated Security=True;Connect Timeout=15;Encrypt=False;TrustServerCertificate=False

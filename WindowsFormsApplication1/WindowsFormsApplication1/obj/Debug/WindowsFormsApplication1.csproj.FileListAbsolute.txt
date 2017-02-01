@@ -1,0 +1,57 @@
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FYP.resources
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FYP.resources
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+O:\FYP\Program\Backup 002\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LinqToTwitter.AspNet.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\LinqToTwitterPcl.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Extensions.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Primitives.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Core.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Interfaces.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Linq.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.PlatformServices.dll
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Extensions.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.Primitives.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Core.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Interfaces.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.Linq.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Reactive.PlatformServices.xml
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.App.config
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.About.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Analyse.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExportQualitative.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.FYP.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Loading.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainMenu.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Matching.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TwitterManagement.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UpdateConnection.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ExportQuantitative.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Counter.resources
+O:\FYP\Program\C# SW\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Join.resources
+O:\FYP\Program\C# SW\DynamicStockMarketPredictionFYP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\FYP\Program\C# SW\DynamicStockMarketPredictionFYP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+O:\FYP\Program\C# SW\DynamicStockMarketPredictionFYP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
