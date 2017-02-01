@@ -15,7 +15,7 @@ Application features :
 </ul>
 
 
-<button type="button" class="btn btn-default">Default</button>
+<button type="button" class="btn btn-sm select-menu-button js-menu-target css-truncate">Default</button>
 
 
 
