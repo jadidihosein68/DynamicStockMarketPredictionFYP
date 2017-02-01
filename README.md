@@ -6,7 +6,7 @@ My finall year project in 2015 written using C# windows form application
 
 Application features : 
 <ul>
-<li>use Twitter API to get sa person tweets (download up to 3200 tweets via multiple requests).
+<li>use Twitter API to get a user tweets (download up to 3200 tweets via multiple requests).
 <img src="https://s30.postimg.org/tp0s3nkox/Tweets.png" class="img-rounded" alt="Cinque Terre" >
 </li>
 
@@ -23,6 +23,10 @@ Application features :
 </li>
 <li>Normalize he times series and price diagram
 <img src="https://s27.postimg.org/kncd5l8b7/normal.png" class="img-rounded" alt="Cinque Terre" >
+</li>
+
+<li>Editable matcing algorithm 
+<img src="https://s27.postimg.org/kddpsn8c3/matching.png" class="img-rounded" alt="Cinque Terre" >
 </li>
 
 </ul>
