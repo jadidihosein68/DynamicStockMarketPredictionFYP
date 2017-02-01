@@ -22,7 +22,7 @@ Application features :
 <img src="https://s27.postimg.org/nwbealmur/salemandar_CSH.jpg" class="img-rounded" alt="Cinque Terre" >
 </li>
 <li>Normalize he times series and price diagram
-<img src="https://s30.postimg.org/tp0s3nkox/Tweets.png" class="img-rounded" alt="Cinque Terre" >
+<img src="https://s27.postimg.org/kncd5l8b7/normal.png" class="img-rounded" alt="Cinque Terre" >
 </li>
 
 </ul>
