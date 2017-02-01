@@ -18,10 +18,11 @@ Application features :
 <li>Calculate MACD,RSI, Stochastic Osccilator and Guppy timeseries diagram in a customized interval, and draw timeseries diagrams.
 <img src="https://s27.postimg.org/isb9fx4sj/All.png" class="img-rounded" alt="Cinque Terre" >
 </li>
-<li>Use internal algorithm on weka string to binary output files and count the number of repeated world per days and sort them from max to min.</li>
-</ul>
+<li>Use internal algorithm on weka string to binary output files and count the number of repeated world per days and sort them from max to min.
 <img src="https://s27.postimg.org/nwbealmur/salemandar_CSH.jpg" class="img-rounded" alt="Cinque Terre" >
+</li>
+<li>Normalize he times series and price diagram
+<img src="https://s30.postimg.org/tp0s3nkox/Tweets.png" class="img-rounded" alt="Cinque Terre" >
+</li>
 
-
-
-
+</ul>
