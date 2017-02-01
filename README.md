@@ -13,12 +13,4 @@ Application features :
 <li>Draw Timeseries Diagram.</li>
 <li>Use internal algorithm on weka string to binary output files and count the number of repeated world per days and sort them from max to min.</li>
 </ul>
-
-
-<button type="button" class="btn btn-sm select-menu-button js-menu-target css-truncate">Default</button>
-
-
-
-
-
-
+<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" class="img-rounded" alt="Cinque Terre" width="304" height="236">
