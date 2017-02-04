@@ -3,7 +3,6 @@ My finall year project in 2015 written using C# windows form application
 
 
 
-
 Application features : 
 <ul>
 <li>use Twitter API to get a user tweets (download up to 3200 tweets via multiple requests).
