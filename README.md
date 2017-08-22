@@ -33,6 +33,7 @@ Application features :
 <li>filter Tweets
 </li>
 <li>find the most repeated term per day after filtering tweets
+<img src="https://image.ibb.co/f4nw2Q/Capture.png" class="img-rounded" alt="Cinque Terre" >
 </li>
 <li>find the impact of each term on the prediction 
 </li>
