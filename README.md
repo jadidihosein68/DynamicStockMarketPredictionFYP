@@ -38,7 +38,9 @@ Application features :
 </li>
 <li>find the impact of each term on the prediction 
 </li>
-
+<li>
+<img src="https://image.ibb.co/mFeJhQ/Capture3.png" alt="Capture2" border="0">
+</li>
 
 
 </ul>
