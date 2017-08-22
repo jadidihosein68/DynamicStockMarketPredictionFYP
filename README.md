@@ -42,7 +42,11 @@ Application features :
 <img src="https://image.ibb.co/mFeJhQ/Capture3.png" alt="Capture2" border="0">
 </li>
 
-
+<li> Do not hesitate to contact me if you have any question. I can share with you the full details. 
+</li>
 </ul>
+
+Cheers
+Hossein
 
 
