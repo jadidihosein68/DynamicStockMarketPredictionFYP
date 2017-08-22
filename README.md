@@ -34,8 +34,7 @@ Application features :
 </li>
 <li>find the most repeated term per day after filtering tweets
 <img src="https://image.ibb.co/f4nw2Q/Capture.png" class="img-rounded" alt="Cinque Terre" >
-<a href="https://imgbb.com/"><img src="https://image.ibb.co/gLBCbk/Capture2.png" alt="Capture2" border="0"></a>
-
+<img src="https://image.ibb.co/gLBCbk/Capture2.png" alt="Capture2" border="0">
 </li>
 <li>find the impact of each term on the prediction 
 </li>
