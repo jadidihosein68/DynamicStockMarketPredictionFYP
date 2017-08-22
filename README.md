@@ -28,4 +28,17 @@ Application features :
 <img src="https://s27.postimg.org/kddpsn8c3/matching.png" class="img-rounded" alt="Cinque Terre" >
 </li>
 
+<li>Extract Data From Twitter 
+</li>
+<li>filter Tweets
+</li>
+<li>find the most repeated term per day after filtering tweets
+</li>
+<li>find the impact of each term on the prediction 
+</li>
+
+
+
 </ul>
+
+
