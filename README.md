@@ -2,6 +2,9 @@
 My finall year project in 2015 written using C# windows form application
 
 
+There is a sad news, Yahoo Finance doese not support its API for public access any more, hence this project can not work any more;
+However If you have a new endpoint to provide stock historical data, or you are intrested on this project, let me know :).
+
 
 Application features : 
 <ul>
